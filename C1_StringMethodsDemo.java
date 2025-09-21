@@ -7,6 +7,7 @@ public class C1_StringMethodsDemo {
         System.out.println(name );
         System.out.print(A);
         System.out.printf("My name is: %s",name);
+        
         // String methods 
         //Length 
         int value = name.length();
