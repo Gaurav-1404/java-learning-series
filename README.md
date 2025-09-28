@@ -14,13 +14,13 @@
 
 ## 📚 Lessons Covered  
 
-| #   | Topic                     | File Link                                                                 |
-|-----|----------------------------|--------------------------------------------------------------------------|
-| 01  | 🔤 **String Methods**      | [C1_StringMethodsDemo.java](C1_StringMethodsDemo.java)                   |
-| 02  | 🔀 **Conditional Statements** | [C2_conditional_statements.java](C2_conditional_statements.java)     |
-| 03  | 🔁 **Loops**               | 🚧 Coming soon...                                                        |
-| 04  | 📦 **Arrays**              | 🚧 Coming soon...                                                        |
-| 05  | 🏗️ **OOP Concepts**        | 🚧 Coming soon...                                                        |
+| #   | Topic                       | File Link                                                                 |
+|-----|-----------------------------|--------------------------------------------------------------------------|
+| 01  |  **String Methods**        | [C1_StringMethodsDemo.java](StringMethodsDemo)                   |
+| 02  |  **Conditional Statements** | [C2_conditional_statements.java](conditional_statements)      |
+| 03  |  **Loops**                 | [C3_loop_statements.java](C3                                                   |
+| 04  |  **Arrays**                | 🚧 Coming soon...                                                        |
+| 05  |  **OOP Concepts**          | 🚧 Coming soon...                                                        |
 
 ---
 
