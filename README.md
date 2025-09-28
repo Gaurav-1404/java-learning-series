@@ -1,6 +1,27 @@
-# java-learning-series
-This is my code learning series using the Java language.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="120px">
+</p>
 
-01 . [String Methods](https://github.com/Gaurav-1404/java-learning-series/blob/main/C1_StringMethodsDemo.java)
+<h1 align="center">🔥 Java Learning Series 🚀</h1>
 
-02 . [Conditional Statement](https://github.com/Gaurav-1404/java-learning-series/blob/main/C2_conditional_statements.java)
+<p align="center">
+  Step-by-step journey to mastering <b>Java Programming</b> with examples.  
+  <br>  
+  <i>Learn • Code • Build • Repeat</i>  
+</p>
+
+---
+
+## 📚 Lessons Covered  
+
+| #   | Topic                     | File Link                                                                 |
+|-----|----------------------------|--------------------------------------------------------------------------|
+| 01  | 🔤 **String Methods**      | [C1_StringMethodsDemo.java](C1_StringMethodsDemo.java)                   |
+| 02  | 🔀 **Conditional Statements** | [C2_conditional_statements.java](C2_conditional_statements.java)     |
+| 03  | 🔁 **Loops**               | 🚧 Coming soon...                                                        |
+| 04  | 📦 **Arrays**              | 🚧 Coming soon...                                                        |
+| 05  | 🏗️ **OOP Concepts**        | 🚧 Coming soon...                                                        |
+
+---
+
+## ⚡ Quick Code Preview  
