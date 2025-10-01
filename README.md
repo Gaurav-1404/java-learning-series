@@ -28,7 +28,9 @@
 | 10  |  **Oops practice**                  |  [Oops methods practice](C10_Oops_class_methods_practice.java)              |
 | 11  | **Constructor** | [Constructor in java](C11_Constructor_in_java.java)  |
 | 12  | **Guess The Number Game** | [Guess The Number](C12_GuessTheNumber.java) |
-|      |  | []() |
+| 13  | **Inheritance**  | [Inheritance](C13_Inheritance.java) |
+| 14  | **Constructor Inheritance**| [Constructor Inheritance](C14_Constructor_Inheritance.java) |
+|   | | []() |
 
 ---
 
