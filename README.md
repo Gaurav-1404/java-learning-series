@@ -30,8 +30,8 @@
 | 12  | **Guess The Number Game** | [Guess The Number](C12_GuessTheNumber.java) |
 | 13  | **Inheritance**  | [Inheritance](C13_Inheritance.java) |
 | 14  | **Constructor Inheritance**| [Constructor Inheritance](C14_Constructor_Inheritance.java) |
-|   | | []() |
-
+| 15  | **Dynamic Method Dispatch**| [Dynamic Method Dispatch](C15_Dynamic_Method_Dispatch.java) |
+| 16  | **Creating Library functions** |[Creating Library](C16_CreatingLibrary.java)|
 ---
 
 ## ⚡ Quick Code Preview  
