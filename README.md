@@ -32,6 +32,9 @@
 | 14  | **Constructor Inheritance**| [Constructor Inheritance](C14_Constructor_Inheritance.java) |
 | 15  | **Dynamic Method Dispatch**| [Dynamic Method Dispatch](C15_Dynamic_Method_Dispatch.java) |
 | 16  | **Creating Library functions** |[Creating Library](C16_CreatingLibrary.java)|
+| 17  | **java practice QuestionSet** | [java practice QuestionSet](C17_java_practice_QuestionSet.java) |
+| 18  | **AbstractClass&Methods** | [AbstractClass AbstractMethods](C18_AbstractClass_AbstractMethods.java) | 
+|   | **** | []() | 
 ---
 
 ## ⚡ Quick Code Preview  
