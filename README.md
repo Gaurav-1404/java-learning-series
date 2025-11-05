@@ -36,6 +36,9 @@
 | 18  | **AbstractClass&Methods** | [AbstractClass AbstractMethods](C18_AbstractClass_AbstractMethods.java) | 
 | 19  | **Interfaces Introduction** | [Interfaces](C19_interfaces.java) | 
 | 20  | **Interface examples** | [Interface examples](C20_Interface_examples.java) | 
+| 21  | **Inheritance in interfaces** | [Inheritance in interfaces](C21_inheritance_in_interfaces.java) | 
+| 22  | **Polymorphism** | [Polymorphism](C22_Polymorphism.java) | 
+| 23  | **Practice set** | [Practice set](C23_practice_set.java) | 
 |   | **** | []() | 
 ---
 
