@@ -39,7 +39,7 @@
 | 21  | **Inheritance in interfaces** | [Inheritance in interfaces](C21_inheritance_in_interfaces.java) | 
 | 22  | **Polymorphism** | [Polymorphism](C22_Polymorphism.java) | 
 | 23  | **Practice set** | [Practice set](C23_practice_set.java) | 
-| 24  | **Java Packages** | [Java Packages](C24_Java_Packages.java ) [tools package](MyPackages/tools)| 
+| 24  | **Java Packages** | [Java Packages](C24_Java_Packages.java ) , [tools package](MyPackages/tools)| 
 | 25  | **Access Modifiers** | [Access Modifiers](C25_Access_Modifiers.java) | 
 |   | **** | []() | 
 |   | **** | []() | 
