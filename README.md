@@ -44,6 +44,12 @@
 | 26  | **Practice Set** | [Practice Set](C26_PracticeSet.java) , [Calculator package](Calculator) | 
 | 27  | **Multithreading using Extends Thread Class** | [Multithreading ExtendingThreadClass](C27_Multithreading_ExtendingThreadClass.java) | 
 | 28  | **Muktithreading using Runnable interface** | [Runnable interface](C28_Runnable_interface.java) | 
+| 29  | **Thread Constructor** | [Thread Constructor](C29_Thread_Constructor.java) | 
+| 30  | **Thread priorities** | [Thread priorities](C30_Thread_priorities.java) | 
+| 31  | **Threads Methods** | [Threads Methods](C31_Threads_Methods.java) | 
+| 32  | **Practice Set** | [Practice Set](C32_PracticeSet.java) | 
+|   | **** | []() | 
+|   | **** | []() | 
 |   | **** | []() | 
 ---
 
