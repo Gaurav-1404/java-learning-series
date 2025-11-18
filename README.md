@@ -48,8 +48,13 @@
 | 30  | **Thread priorities** | [Thread priorities](C30_Thread_priorities.java) | 
 | 31  | **Threads Methods** | [Threads Methods](C31_Threads_Methods.java) | 
 | 32  | **Practice Set** | [Practice Set](C32_PracticeSet.java) | 
-|   | **** | []() | 
-|   | **** | []() | 
+| 33  | **Error And Exception** | [Error And Exception](C33_ErrorAndException.java) | 
+| 34  | **try-Catch Block** | [try-Catch Block](C34_tryCatchBlock.java) | 
+| 35  | **Nested Try-Catch** | [Nested Try-Catch](C35_NestedTryCatch.java) | 
+| 36  | **Custom Exception Class** | [Exception Class](ExceptionClass.java) | 
+| 37  | **throw And Throws Keywords** | [throw And Throws](C37_throwAndThrows.java) | 
+| 38  | **Finally Block** | [Finally Block](C38_FinallyBlock.java) | 
+| 39  | **Practice set** | [Practice set](C39_Practice_set.java) | 
 |   | **** | []() | 
 ---
 
