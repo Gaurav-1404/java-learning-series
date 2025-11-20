@@ -55,6 +55,9 @@
 | 37  | **throw And Throws Keywords** | [throw And Throws](C37_throwAndThrows.java) | 
 | 38  | **Finally Block** | [Finally Block](C38_FinallyBlock.java) | 
 | 39  | **Practice set** | [Practice set](C39_Practice_set.java) | 
+| 40  | **ArrayList And its function** | [Array List](C40_ArrayList.java) | 
+| 41  | **Linked List And its function** | [Linked List](C41_LinkedList.java) | 
+| 42  | **Linked List & Node Creation** | [Linked List Creation](C42_LinkedListCreation.java) | 
 |   | **** | []() | 
 ---
 
