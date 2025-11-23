@@ -58,6 +58,8 @@
 | 40  | **ArrayList And its function** | [Array List](C40_ArrayList.java) | 
 | 41  | **Linked List And its function** | [Linked List](C41_LinkedList.java) | 
 | 42  | **Linked List & Node Creation** | [Linked List Creation](C42_LinkedListCreation.java) | 
+| 43  | **Array Deque & its function** | [Array Deque](C43_ArrayDeque.java) | 
+| 44  | **Date and time in java** | [Date Time](C44_Date_Time.java) | 
 |   | **** | []() | 
 ---
 
