@@ -1,3 +1,6 @@
+import java.time.LocalDate;
+import java.time.LocalTime;
+
 public class C44_Date_Time {
     public static void main(String[] args) {
 
@@ -14,5 +17,11 @@ public class C44_Date_Time {
         System.out.println("Hours: " + hours);
         System.out.println("Days: " + days);
         System.out.println("Years: " + years);
+
+        LocalDate d = LocalDate.now();
+        System.err.println(d);
+
+        LocalTime t = LocalTime.now();
+        System.err.println(t);
     }
 }
